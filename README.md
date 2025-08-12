@@ -9,13 +9,12 @@ I use bioinformatics, genomics and molecular biology tools to identify and solve
 
 
 
-- 🔭 I’m currently working on developing bioinformatics pipelines for genomic and transcriptomic analyses in a range of crops and organisms
+- 🔭 I’m currently working on developing bioinformatics pipelines for genomic and transcriptomic analyses in a range of crops and organisms, see my [Research Profile](https://experts.griffith.edu.au/8327-ido-bar)
 - 🌱 I’m learning how to use pangenomes and new ML methods in agricultural genomic research 
 - 👯 I’m happy to collaborate on anything bioinformatics-related
 - 🤔 I’m looking for help with **implementing AI in genomic research**
-- 💬 Ask me about developing and documenting bioinformatics analysis pipelines, HPC computing, Nextflow, R
-- 😄 Pronouns: he/him
-- 🌊 Fun fact: I like to challenge myself in whitewater kayaking and ocean kayak fishing
+- 💬 Ask me about developing and documenting bioinformatics analysis pipelines ([example](https://idobar.github.io/QX_bioinfo_analysis/)), HPC computing, Nextflow, R
+- 🌊 Fun fact: I like to test my limits in whitewater kayaking and ocean kayak fishing
 
 #### Quote of the day 
 
