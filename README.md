@@ -16,10 +16,6 @@ I use bioinformatics, genomics and molecular biology tools to identify and solve
 - 💬 Ask me about developing and documenting bioinformatics analysis pipelines ([example](https://idobar.github.io/QX_bioinfo_analysis/)), HPC computing, Nextflow, R
 - 🌊 Fun fact: I like to test my limits in whitewater kayaking and ocean kayak fishing
 
-#### Quote of the day 
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
-
 
 ## Tools and languages I code with
 
@@ -41,6 +37,10 @@ I use bioinformatics, genomics and molecular biology tools to identify and solve
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg" height="40" alt="groovy logo"  />  &nbsp; 
   <a href="https://github.com/IdoBar" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  >  &nbsp;  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  /></a>
 </div>
+
+### Programming Quote of the Day 
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <div align="center">
 
@@ -89,9 +89,9 @@ Feel free to reach out if you want to work together on something amazing! 🚀
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/idobar/idobar/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/idobar/idobar/output/snake.svg" alt="Snake animation" />
 </div>
-
+ -->
 
 <div align="center">
 
